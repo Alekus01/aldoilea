@@ -1,2 +1,7 @@
-# aldoilea
-nimic wow
+# Second Demo Repo
+
+Niste descriere
+
+## Subheader
+
+ mai mult texty?!?
